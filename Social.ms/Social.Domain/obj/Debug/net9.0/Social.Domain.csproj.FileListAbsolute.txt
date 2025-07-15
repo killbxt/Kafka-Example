@@ -1,0 +1,12 @@
+C:\Users\fateev.d\Desktop\TeamSolve\Server\Social.ms\Social.Domain\bin\Debug\net9.0\Social.Domain.deps.json
+C:\Users\fateev.d\Desktop\TeamSolve\Server\Social.ms\Social.Domain\bin\Debug\net9.0\Social.Domain.dll
+C:\Users\fateev.d\Desktop\TeamSolve\Server\Social.ms\Social.Domain\bin\Debug\net9.0\Social.Domain.pdb
+C:\Users\fateev.d\Desktop\TeamSolve\Server\Social.ms\Social.Domain\obj\Debug\net9.0\Social.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fateev.d\Desktop\TeamSolve\Server\Social.ms\Social.Domain\obj\Debug\net9.0\Social.Domain.AssemblyInfoInputs.cache
+C:\Users\fateev.d\Desktop\TeamSolve\Server\Social.ms\Social.Domain\obj\Debug\net9.0\Social.Domain.AssemblyInfo.cs
+C:\Users\fateev.d\Desktop\TeamSolve\Server\Social.ms\Social.Domain\obj\Debug\net9.0\Social.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fateev.d\Desktop\TeamSolve\Server\Social.ms\Social.Domain\obj\Debug\net9.0\Social.Domain.sourcelink.json
+C:\Users\fateev.d\Desktop\TeamSolve\Server\Social.ms\Social.Domain\obj\Debug\net9.0\Social.Domain.dll
+C:\Users\fateev.d\Desktop\TeamSolve\Server\Social.ms\Social.Domain\obj\Debug\net9.0\refint\Social.Domain.dll
+C:\Users\fateev.d\Desktop\TeamSolve\Server\Social.ms\Social.Domain\obj\Debug\net9.0\Social.Domain.pdb
+C:\Users\fateev.d\Desktop\TeamSolve\Server\Social.ms\Social.Domain\obj\Debug\net9.0\ref\Social.Domain.dll

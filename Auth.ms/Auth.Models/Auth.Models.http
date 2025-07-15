@@ -1,0 +1,6 @@
+@Auth.Models_HostAddress = http://localhost:5266
+
+GET {{Auth.Models_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

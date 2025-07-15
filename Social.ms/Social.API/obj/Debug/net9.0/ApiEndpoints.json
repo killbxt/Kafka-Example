@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "Social.API.Controllers.ClientController",
+    "Method": "Add",
+    "RelativePath": "api/clients/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "clientAddRequest",
+        "Type": "Social.Domain.Models.ClientAddRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Social.API.Controllers.ClientController",
+    "Method": "Get",
+    "RelativePath": "api/clients/get/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Social.API.Controllers.MessagesController",
+    "Method": "GetMessages",
+    "RelativePath": "api/messages",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

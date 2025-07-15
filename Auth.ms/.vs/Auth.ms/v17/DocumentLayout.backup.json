@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA7B4F-B7E9-4A12-899D-FEDC5BCBDA46}|Auth.API\\Auth.API.csproj|c:\\users\\fateev.d\\desktop\\teamsolve\\server\\auth.ms\\auth.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FBA7B4F-B7E9-4A12-899D-FEDC5BCBDA46}|Auth.API\\Auth.API.csproj|solutionrelative:auth.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A65533-7A34-4D84-A17B-479CD44BDA58}|Auth.Domain\\Auth.Domain.csproj|c:\\users\\fateev.d\\desktop\\teamsolve\\server\\auth.ms\\auth.domain\\models\\kafkaproducerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A65533-7A34-4D84-A17B-479CD44BDA58}|Auth.Domain\\Auth.Domain.csproj|solutionrelative:auth.domain\\models\\kafkaproducerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA7B4F-B7E9-4A12-899D-FEDC5BCBDA46}|Auth.API\\Auth.API.csproj|c:\\users\\fateev.d\\desktop\\teamsolve\\server\\auth.ms\\auth.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA7B4F-B7E9-4A12-899D-FEDC5BCBDA46}|Auth.API\\Auth.API.csproj|solutionrelative:auth.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C88C560-C71B-42CC-A056-FC2ADCA28604}|Auth.Services\\Auth.Services.csproj|c:\\users\\fateev.d\\desktop\\teamsolve\\server\\auth.ms\\auth.services\\kafka\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C88C560-C71B-42CC-A056-FC2ADCA28604}|Auth.Services\\Auth.Services.csproj|solutionrelative:auth.services\\kafka\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C88C560-C71B-42CC-A056-FC2ADCA28604}|Auth.Services\\Auth.Services.csproj|c:\\users\\fateev.d\\desktop\\teamsolve\\server\\auth.ms\\auth.services\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C88C560-C71B-42CC-A056-FC2ADCA28604}|Auth.Services\\Auth.Services.csproj|solutionrelative:auth.services\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A65533-7A34-4D84-A17B-479CD44BDA58}|Auth.Domain\\Auth.Domain.csproj|c:\\users\\fateev.d\\desktop\\teamsolve\\server\\auth.ms\\auth.domain\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A65533-7A34-4D84-A17B-479CD44BDA58}|Auth.Domain\\Auth.Domain.csproj|solutionrelative:auth.domain\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Persistance\\Migrations\\20250715132636_15072025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Auth.Persistance\\Migrations\\20250715132636_15072025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A7C8B0-495B-4894-BFC7-38AFBCFC2844}|Auth.Persistance\\Auth.Persistance.csproj|c:\\users\\fateev.d\\desktop\\teamsolve\\server\\auth.ms\\auth.persistance\\context\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A7C8B0-495B-4894-BFC7-38AFBCFC2844}|Auth.Persistance\\Auth.Persistance.csproj|solutionrelative:auth.persistance\\context\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Persistance\\Migrations\\20250715132611_15072025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Auth.Persistance\\Migrations\\20250715132611_15072025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A7C8B0-495B-4894-BFC7-38AFBCFC2844}|Auth.Persistance\\Auth.Persistance.csproj|c:\\users\\fateev.d\\desktop\\teamsolve\\server\\auth.ms\\auth.persistance\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A7C8B0-495B-4894-BFC7-38AFBCFC2844}|Auth.Persistance\\Auth.Persistance.csproj|solutionrelative:auth.persistance\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A65533-7A34-4D84-A17B-479CD44BDA58}|Auth.Domain\\Auth.Domain.csproj|c:\\users\\fateev.d\\desktop\\teamsolve\\server\\auth.ms\\auth.domain\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A65533-7A34-4D84-A17B-479CD44BDA58}|Auth.Domain\\Auth.Domain.csproj|solutionrelative:auth.domain\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A65533-7A34-4D84-A17B-479CD44BDA58}|Auth.Domain\\Auth.Domain.csproj|c:\\users\\fateev.d\\desktop\\teamsolve\\server\\auth.ms\\auth.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A65533-7A34-4D84-A17B-479CD44BDA58}|Auth.Domain\\Auth.Domain.csproj|solutionrelative:auth.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C88C560-C71B-42CC-A056-FC2ADCA28604}|Auth.Services\\Auth.Services.csproj|c:\\users\\fateev.d\\desktop\\teamsolve\\server\\auth.ms\\auth.services\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C88C560-C71B-42CC-A056-FC2ADCA28604}|Auth.Services\\Auth.Services.csproj|solutionrelative:auth.services\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA7B4F-B7E9-4A12-899D-FEDC5BCBDA46}|Auth.API\\Auth.API.csproj|c:\\users\\fateev.d\\desktop\\teamsolve\\server\\auth.ms\\auth.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA7B4F-B7E9-4A12-899D-FEDC5BCBDA46}|Auth.API\\Auth.API.csproj|solutionrelative:auth.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A7C8B0-495B-4894-BFC7-38AFBCFC2844}|Auth.Persistance\\Auth.Persistance.csproj|c:\\users\\fateev.d\\desktop\\teamsolve\\server\\auth.ms\\auth.persistance\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A7C8B0-495B-4894-BFC7-38AFBCFC2844}|Auth.Persistance\\Auth.Persistance.csproj|solutionrelative:auth.persistance\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Persistance\\Migrations\\20250715121517_15072025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Auth.Persistance\\Migrations\\20250715121517_15072025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A7C8B0-495B-4894-BFC7-38AFBCFC2844}|Auth.Persistance\\Auth.Persistance.csproj|c:\\users\\fateev.d\\desktop\\teamsolve\\server\\auth.ms\\auth.persistance\\auth.persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9A7C8B0-495B-4894-BFC7-38AFBCFC2844}|Auth.Persistance\\Auth.Persistance.csproj|solutionrelative:auth.persistance\\auth.persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA7B4F-B7E9-4A12-899D-FEDC5BCBDA46}|Auth.API\\Auth.API.csproj|c:\\users\\fateev.d\\desktop\\teamsolve\\server\\auth.ms\\auth.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FBA7B4F-B7E9-4A12-899D-FEDC5BCBDA46}|Auth.API\\Auth.API.csproj|solutionrelative:auth.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A65533-7A34-4D84-A17B-479CD44BDA58}|Auth.Domain\\Auth.Domain.csproj|c:\\users\\fateev.d\\desktop\\teamsolve\\server\\auth.ms\\auth.domain\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A65533-7A34-4D84-A17B-479CD44BDA58}|Auth.Domain\\Auth.Domain.csproj|solutionrelative:auth.domain\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250715132636_15072025.cs",
+              "DocumentMoniker": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Persistance\\Migrations\\20250715132636_15072025.cs",
+              "RelativeDocumentMoniker": "Auth.Persistance\\Migrations\\20250715132636_15072025.cs",
+              "ToolTip": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Persistance\\Migrations\\20250715132636_15072025.cs",
+              "RelativeToolTip": "Auth.Persistance\\Migrations\\20250715132636_15072025.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:26:36.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KafkaProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Services\\Kafka\\KafkaProducerService.cs",
+              "RelativeDocumentMoniker": "Auth.Services\\Kafka\\KafkaProducerService.cs",
+              "ToolTip": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Services\\Kafka\\KafkaProducerService.cs*",
+              "RelativeToolTip": "Auth.Services\\Kafka\\KafkaProducerService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:44:26.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Auth.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Auth.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:36:53.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Services\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Auth.Services\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Services\\Services\\AuthService.cs*",
+              "RelativeToolTip": "Auth.Services\\Services\\AuthService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:28:04.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Domain\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "Auth.Domain\\Models\\Result.cs",
+              "ToolTip": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Domain\\Models\\Result.cs",
+              "RelativeToolTip": "Auth.Domain\\Models\\Result.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAywBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:28:16.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Auth.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.API\\appsettings.json",
+              "RelativeToolTip": "Auth.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T12:49:06.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KafkaProducerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Domain\\Models\\KafkaProducerConfig.cs",
+              "RelativeDocumentMoniker": "Auth.Domain\\Models\\KafkaProducerConfig.cs",
+              "ToolTip": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Domain\\Models\\KafkaProducerConfig.cs",
+              "RelativeToolTip": "Auth.Domain\\Models\\KafkaProducerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:44:45.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250715132611_15072025.cs",
+              "DocumentMoniker": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Persistance\\Migrations\\20250715132611_15072025.cs",
+              "RelativeDocumentMoniker": "Auth.Persistance\\Migrations\\20250715132611_15072025.cs",
+              "ToolTip": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Persistance\\Migrations\\20250715132611_15072025.cs",
+              "RelativeToolTip": "Auth.Persistance\\Migrations\\20250715132611_15072025.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:26:11.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Auth.Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Domain\\Models\\User.cs",
+              "RelativeToolTip": "Auth.Domain\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:04:03.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Services\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Auth.Services\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Services\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Auth.Services\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:27:58.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Persistance\\Context\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "Auth.Persistance\\Context\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Persistance\\Context\\AuthDbContext.cs",
+              "RelativeToolTip": "Auth.Persistance\\Context\\AuthDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:07:12.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Persistance\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Auth.Persistance\\Repositories\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Persistance\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "Auth.Persistance\\Repositories\\AuthRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:18:04.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Domain\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Auth.Domain\\Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Domain\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "Auth.Domain\\Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:05:35.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.API\\Program.cs",
+              "RelativeDocumentMoniker": "Auth.API\\Program.cs",
+              "ToolTip": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.API\\Program.cs",
+              "RelativeToolTip": "Auth.API\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:55:40.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Persistance\\Repositories\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Auth.Persistance\\Repositories\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Persistance\\Repositories\\IAuthRepository.cs",
+              "RelativeToolTip": "Auth.Persistance\\Repositories\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:18:14.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250715121517_15072025.cs",
+              "DocumentMoniker": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Persistance\\Migrations\\20250715121517_15072025.cs",
+              "RelativeDocumentMoniker": "Auth.Persistance\\Migrations\\20250715121517_15072025.cs",
+              "ToolTip": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Persistance\\Migrations\\20250715121517_15072025.cs",
+              "RelativeToolTip": "Auth.Persistance\\Migrations\\20250715121517_15072025.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:15:17.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Auth.Persistance",
+              "DocumentMoniker": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Persistance\\Auth.Persistance.csproj",
+              "RelativeDocumentMoniker": "Auth.Persistance\\Auth.Persistance.csproj",
+              "ToolTip": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Persistance\\Auth.Persistance.csproj",
+              "RelativeToolTip": "Auth.Persistance\\Auth.Persistance.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-15T12:02:30.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Domain\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Auth.Domain\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.Domain\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Auth.Domain\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:05:07.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Auth.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\fateev.d\\Desktop\\TeamSolve\\Server\\Auth.ms\\Auth.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Auth.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T11:57:41.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
